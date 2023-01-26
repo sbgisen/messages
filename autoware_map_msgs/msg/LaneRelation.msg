@@ -1,7 +1,7 @@
 # This represents lane connections in a map.
 
 # BlinkerType
-uint8 None = 0
+# uint8 None = 0
 uint8 Left = 1
 uint8 Right = 2
 

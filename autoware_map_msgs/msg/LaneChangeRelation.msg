@@ -2,7 +2,7 @@
 # This relation object is only made if the lane change is available. 
 
 # BlinkerType
-uint8 None = 0
+# uint8 None = 0
 uint8 Left = 1
 uint8 Right = 2
 
